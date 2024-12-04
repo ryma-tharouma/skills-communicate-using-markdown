@@ -5,3 +5,7 @@
 ```python
 print("hello world !")
 ```
+- [x] learn about github copilot
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
